@@ -3,7 +3,7 @@
 ## Install
 
 ```shell
-go install github.com/w3connext/appiumgen
+go install github.com/w3connext/appiumgen/cmd@latest
 ```
 
 ## How to use
